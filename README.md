@@ -1,5 +1,3 @@
-# leetcode
-My LeetCode Solutions
 # LeetCode Solutions
 
 This repository contains my accepted LeetCode solutions.
