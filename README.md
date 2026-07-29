@@ -1,9 +1,15 @@
-# LeetCode Solutions
+# LeetCode Solutions 🚀
 
+Welcome to my LeetCode solutions repository.
+
+## Languages
+- Python 🐍
+- SQL 🗄️
+
+## About
 This repository contains my accepted LeetCode solutions.
 
-Languages:
-- Python
-- SQL
+The repository is automatically synchronized using GitHub Actions whenever I solve new problems.
 
-Solutions are synced automatically using GitHub Actions.
+## LeetCode Profile
+https://leetcode.com/u/Vidyashree_L_S/
